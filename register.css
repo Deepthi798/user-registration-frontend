@@ -1,0 +1,35 @@
+.reg-component{
+    background-color: blueviolet;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+    text-align: center;
+    display: flex;
+}
+.custom-items{
+    background-color: aqua;
+    border-radius: 5px;
+}
+.custom-input{
+    padding: 10px;
+    border: 1px solid white;
+    outline: none;
+    margin: 9px;
+    border-radius: 5px;
+}
+.custom-btn{
+    border: 1px solid white;
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 5px 0;
+    border-radius: 5px;
+
+}
+.custom-btn:hover{
+    cursor: pointer;
+}
+.nav{
+    border-radius: 5px;
+    
+}

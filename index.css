@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.main-container{
+    background-color: aqua;
+    height: 100vh;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom-card{
+    /* padding: 10px; */
+    background-color: white;
+    border-radius: 5px;
+}
+.custom-input{
+    border: 1px solid lightgray;
+    padding: 10px;
+    outline: none;
+    margin: 9px;
+    border-radius: 5px;
+}
+.custom-btn{
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    color: white;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+.custom-btn:hover{
+    cursor: pointer;
+}
